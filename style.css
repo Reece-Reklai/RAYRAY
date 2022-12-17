@@ -5,7 +5,8 @@
   src: url(https://fonts.gstatic.com/s/sigmarone/v16/co3DmWZ8kjZuErj9Ta3do6Tpow.ttf) format('truetype');
 }
 body {
-  background: #3da1d1;
+  background-image: cover;
+  background-color: url('./img/island.jpg');
   color: #fff;
   overflow: hidden;
 }
