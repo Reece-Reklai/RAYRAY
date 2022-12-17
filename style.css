@@ -5,8 +5,7 @@
   src: url(https://fonts.gstatic.com/s/sigmarone/v16/co3DmWZ8kjZuErj9Ta3do6Tpow.ttf) format('truetype');
 }
 body {
-  background-image: cover;
-  background-color: url('./img/island.jpg');
+  background-image: url('./img/island.jpg');
   color: #fff;
   overflow: hidden;
 }
@@ -22,8 +21,8 @@ body {
   right: 0;
 }
 h1 {
-  transform-origin: 50% 50%;
-  font-size: 100px;
+  transform-origin: 60% 60%;
+  font-size: 75;
   font-family: 'Sigmar One', cursive;
   cursor: pointer;
   z-index: 2;
